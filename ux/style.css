@@ -1,0 +1,15 @@
+#navbari {
+  color: #ffffff;
+  opacity: value;
+  font-size: 40px;
+  font-family: gympas;
+}
+.p {
+  color: black;
+}
+.tm-footer {
+  text-align: center;
+  background-color: gray;
+  font-size: 20px;
+  color: white;
+}
